@@ -35,8 +35,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me</h2>
 <br>
 <div align="center">
+<a href="https://velog.io/@seojinlee/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog"></a>
 <a href="mailto:lucykatielee06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <br>
 </div>
-
