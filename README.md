@@ -11,17 +11,17 @@
 </div>
 
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Projects</h2>
 
-### 🤖 AI · Agent
+### AI · Agent
 
-**WatchOut!** — 무인 점포 CCTV 이상상황 분석 AI Agent `2026.10 ~ 진행 중` · 🔒 Private
+**WatchOut!** — 무인 점포 CCTV 이상상황 분석 AI Agent `2026.10 ~ 진행 중` · Private
 - 영상을 올리면 이상상황 의심 구간을 찾아 근거 장면과 함께 설명하고, 공개 법률·신고 문서를 근거로 대응 방법을 리포트로 정리
 - Key Frame Selection → Video VLM(Qwen3-VL) → 근거 검증 → RAG(BGE-M3 + Reranker) 파이프라인
 - **역할**: Backend · Agent
 - `Python` `FastAPI` `Qwen3-VL` `RAG` `Chroma` `SQLite`
 
-### 🌐 Web Service
+### Web Service
 
 **[E:ON (이어온)](https://github.com/2026-CapstoneDesign)** — AI 기반 아르바이트 교육·학습 관리 플랫폼 `캡스톤디자인`
 - 사장님이 매뉴얼(PDF 등)을 올리면 AI가 교육 자료와 퀴즈를 생성하고, 알바생이 학습·퀴즈를 수행
